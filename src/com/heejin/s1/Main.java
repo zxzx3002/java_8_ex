@@ -8,6 +8,7 @@ public class Main {
 		sct.start();*/
 		System.out.println("프로그램스타트");
 		System.out.println("Add Branch");
+		System.out.println("Add Branch2");
 	}
 
 }
