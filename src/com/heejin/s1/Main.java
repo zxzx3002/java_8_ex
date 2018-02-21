@@ -4,11 +4,11 @@ public class Main {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		/*SchoolController sct = new SchoolController();
-		sct.start();*/
-		System.out.println("프로그램스타트");
-		System.out.println("Add Branch");
-		System.out.println("Add Branch2");
+		SchoolController sct = new SchoolController();
+		StudentView stdView = new StudentView();
+		Student std = new Student();
+		sct.start();
+		
 	}
 
 }
